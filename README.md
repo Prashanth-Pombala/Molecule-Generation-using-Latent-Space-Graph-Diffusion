@@ -5,8 +5,8 @@ Traditional methods for drug discovery are time-consuming processes that require
 Procedure to train:
 To train models from stratch,
 
-1) Train the Edge type prediction notebook and save the edge type prediction model 
+1) Train the edge type prediction notebook and save the edge type prediction model 
 2) Proceed to train the specific model from their respective notebooks. The notebooks include code for training and saving the models, followed by generation. 
-3) If you do not wish to train the models again, All the pre trained modes are available in the models folder and can be loaded in the respective notebooks.
+3) If you do not wish to train the models again, all the pre trained modes are available in the models folder and can be loaded in the respective notebooks.
 
 [![PDF Preview](architecture.jpg)](architecture.pdf)
