@@ -9,4 +9,4 @@ To train models from stratch,
 2) Proceed to train the specific model from their respective notebooks. The notebooks include code for training and saving the models, followed by generation. 
 3) If you do not wish to train the models again, all the pre trained modes are available in the models folder and can be loaded in the respective notebooks.
 
-[![PDF Preview](architecture.jpg)](architecture.pdf)
+[![PDF Preview](architecture.jpg)](mainfig.pdf)
